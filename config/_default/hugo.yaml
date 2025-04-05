@@ -6,7 +6,7 @@
 # Website name
 title: Fun Facts
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: https://sasandug.github.io/FunFacts/
 
 ############################
 ## LANGUAGE
